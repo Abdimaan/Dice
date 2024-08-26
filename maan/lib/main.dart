@@ -8,7 +8,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.red,
         appBar: AppBar(
-          title: const Text("Dicee"),
+          title: const Text("Dice"),
           backgroundColor: Colors.red,
         ),
         body: const dice(),
