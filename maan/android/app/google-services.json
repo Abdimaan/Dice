@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "698580119472",
+    "project_id": "qalaska-50ad9",
+    "storage_bucket": "qalaska-50ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698580119472:android:26449f4f76bd5d53bbb075",
+        "android_client_info": {
+          "package_name": "com.example.dice2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCekci_rsNJOaiGI1O1CCrpq_rVAMZ1YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698580119472:android:c53ab375e542381abbb075",
+        "android_client_info": {
+          "package_name": "com.qalaska"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCekci_rsNJOaiGI1O1CCrpq_rVAMZ1YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
